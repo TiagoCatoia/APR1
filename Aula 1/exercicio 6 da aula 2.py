@@ -1,0 +1,5 @@
+salario = float(input("Salário: "))
+aumento = (salario*1.25)
+reajuste = (salario*0.25)
+print(f'Salário após o aumento = {aumento}')
+print(f'Valor do reajuste = {reajuste}')
