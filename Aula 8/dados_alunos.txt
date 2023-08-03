@@ -1,0 +1,6 @@
+Tiago;10
+Pedro;7, 6
+Julia;7, 8, 10
+Mario;6
+Laura;7, 8, 3, 8, 3, 10, 6
+Mateus;8, 9
